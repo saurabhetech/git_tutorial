@@ -6,4 +6,5 @@ for ($i=0; $i<count($arr);$i++) {
     echo '<br>';
 }
 
+echo 'Changes made by Developer A';
 ?>
