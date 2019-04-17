@@ -10,4 +10,5 @@ echo 'Changes made by Developer A';
 
 
 echo 'Changes made by Developer A again';
+echo 'Changes made by Developer B';
 ?>
